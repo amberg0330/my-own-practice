@@ -1,0 +1,19 @@
+/*********TAG selectors***********/
+
+h1 {
+  font-size: 20px;
+  color: blue;
+}
+
+img{
+  background-color:red;
+}
+
+/*********class selectors***********/
+.bacon{
+  background-color:green;
+}
+
+.egg{
+  background-color:red;
+}
