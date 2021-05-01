@@ -1,0 +1,26 @@
+/*class section*/
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-style:solid;
+  border-width:10px;
+}
+
+.blue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border-style:solid;
+  border-width:20px;
+  margin:0px 120px;
+}
+
+.yellow{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border-style: solid;
+  border-width:10px;
+  margin:0px 260px;
+}
