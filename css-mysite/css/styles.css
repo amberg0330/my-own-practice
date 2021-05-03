@@ -1,0 +1,23 @@
+body {
+  background-color: #f4f9f9;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  width: 15%;
+  margin: 0 auto 0 auto;
+}
+
+.topdiv {
+  position: relative;
+}
+
+.top-cloud {
+  margin: 0 363.5px 0 811.5px;
+  padding-top: 100px;
+}
+
+.bot-cloud {
+  position: absolute;
+}
